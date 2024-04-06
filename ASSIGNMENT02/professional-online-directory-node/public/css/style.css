@@ -1,0 +1,60 @@
+.navbar-nav{
+  display: inline-block !important;
+  width: 100% !important;
+  padding-left:20px;
+}
+.nav-link{
+  display: inline-block !important;
+}
+.navbar-nav li{
+  display: inline-block;
+}
+.f-right{
+  float: right !important;
+}
+.modal-backdrop{
+  background-color: rgba(0, 0, 0, .6) !important;
+}
+.product-title{
+  text-transform: capitalize;
+  text-align: center;
+}
+.product-media{
+  text-align: center;
+  font-size: 100px;
+}
+.product-card-10{
+  padding: 10px;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px 1px rgba(64,60,67,.24);
+  border-color: transparent;
+}
+#SignUpFrm, #LoginUpFrm{
+  margin-top: 30px;
+  padding: 30px 15px;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px 1px rgba(64,60,67,.24);
+  border-color: transparent;
+}
+footer{
+  position:fixed;
+  bottom:0;
+  left:0;
+  right:0;
+}
+.thead-dark th{
+  background:#000;
+  color:#FFF;
+}
+.ad-new-button{
+  width: auto;
+}
+.cursor-pointer{
+  cursor: pointer;
+}
+.table-icons{
+  font-size: 22px;
+}
+.form-control{
+  font-size: 14px;
+}
